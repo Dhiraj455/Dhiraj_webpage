@@ -1,9 +1,9 @@
 ---
-photo: ../photos/DhirajMain.jpeg
+name: Dhiraj Shelke
 title: M.S. Student in Computer Science
 ---
 
-# education
+# Education
 
 **University of Illinois Chicago — Chicago, USA**  
 _Master of Science in Computer Science_  

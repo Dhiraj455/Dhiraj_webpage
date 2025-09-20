@@ -1,9 +1,9 @@
 ---
-photo: ../photos/DhirajMain.jpeg
+name: Dhiraj Shelke
 title: M.S. Student in Computer Science
 ---
 
-# experience
+# Experience
 Below is a sampling of my professional and academic experiences, where I have applied my technical skills in real-world projects and academic settings. These roles have helped me grow as a full-stack and mobile developer while strengthening my collaboration and mentoring abilities.
 
 ---
